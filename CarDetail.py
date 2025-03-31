@@ -4,6 +4,7 @@
 # Purpose: This app collects and displays car information including
 #          year, make, model, number of doors, and roof type,
 #          using Vehicle and Automobile classes.
+# Github Link: https://github.com/SethTheMountain/MO3Assignment
 # ------------------------------------------------------------
 
 # Define the Vehicle superclass
